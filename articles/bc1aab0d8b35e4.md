@@ -2,8 +2,8 @@
 title: "シェルってなにしてるの"
 emoji: "🐚"
 type: "tech" # tech: 技術記事
-topics: [linux, shell, kernel]
-published: false
+topics: [linux, shell]
+published: true
 ---
 ## はじめに
 先日シェルについてのオンライン勉強会に参加しました。
